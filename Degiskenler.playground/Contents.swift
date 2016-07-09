@@ -24,6 +24,9 @@ var advesoyad2 = "\(ad) \(soyad)" // Daha iyi olduğu söyleniyor
 var fiyat = " Fiyat " + "$\(topla)"
 let degismeyensayi = 5
 //degismeyensayi = 1 -> Hata
+var nullolabilen:Int? // Nil (Null) olabilen değişken
+var nullolamayan:Int! // Nil olamayan değişken
+
 
 
 
